@@ -5,5 +5,9 @@ def dictionary
     "too" => "2", 
     "to" => "2", 
     "two" => "2",
-    "four"
+    "four" => "4", 
+    "for" => "4", 
+    "you" => "u",
+    "at" => "@", 
+    "and" => "&"
   }
